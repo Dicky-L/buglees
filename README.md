@@ -1,2 +1,2 @@
-# buglees
+# bugless
 private blog
