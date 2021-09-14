@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "bce64aae22d17d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c04422a8c3b22a4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JS反调试.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c393af058f72320",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9e8af3cd882596f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "037e5334dbd17d73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3805c15eb7698547",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cabf7f0812e6a499",
+    "type": "split",
+    "children": [
+      {
+        "id": "50720020dd507bf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d0af8e7336e916",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS反调试.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9c04422a8c3b22a4",
+  "lastOpenFiles": [
+    "JS反调试.md",
+    "Untitled.md",
+    "为什么使用 JSX？.md"
+  ]
+}
